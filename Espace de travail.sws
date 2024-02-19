@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{06C15A1B-21A6-4A97-8E67-F6C3073103C8}" Name="RoyalMarket" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="RoyalMarket.prj"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
